@@ -5,7 +5,7 @@ title = "BLEH"
  # edit this if you'ld rather use a fork of this repo
 theme = "newsroom"
 author = "Weru"
-canonifyurls = true
+canonifyurls = false
 [pagination]
   pagerSize = 6
 
